@@ -1,0 +1,10 @@
+main {
+    margin: 100px;
+    font-family: sans-serif;
+}
+
+@media (max-width: 768px) {
+    main {
+        margin: 20px;
+    }
+}
