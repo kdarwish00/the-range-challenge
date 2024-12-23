@@ -83,11 +83,16 @@ Example response:
 project-root
 ├── src
 │   ├── components
-│   │   ├── ProductList.js
+│   │   ├── ProductList.jsx
+│   │   ├── Basket.jsx
 │   ├── hooks
 │   │   ├── useProducts.js
 │   │   ├── useBasket.js
+│   ├── utils
+│   │   ├── basketUtils.js
+│   │   ├── filterUtils.js
 │   ├── App.js
+│   ├── app.css
 │   └── index.js
 ├── public
 │   └── img
